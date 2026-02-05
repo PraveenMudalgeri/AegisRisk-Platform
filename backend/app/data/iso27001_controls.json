@@ -1,0 +1,82 @@
+[
+  {
+    "id": "ISO27001-A.5.1",
+    "framework": "ISO27001",
+    "control_id": "A.5.1",
+    "family": "Information Security Policies",
+    "title": "Policies for information security",
+    "description": "A set of policies for information security shall be defined, approved by management, published and communicated to employees and relevant external parties."
+  },
+  {
+    "id": "ISO27001-A.6.1.1",
+    "framework": "ISO27001",
+    "control_id": "A.6.1.1",
+    "family": "Organization of Information Security",
+    "title": "Information security roles and responsibilities",
+    "description": "All information security responsibilities shall be defined and allocated."
+  },
+  {
+    "id": "ISO27001-A.8.2.1",
+    "framework": "ISO27001",
+    "control_id": "A.8.2.1",
+    "family": "Asset Management",
+    "title": "Classification of information",
+    "description": "Information shall be classified in terms of legal requirements, value, criticality and sensitivity to unauthorised disclosure or modification."
+  },
+  {
+    "id": "ISO27001-A.9.1.1",
+    "framework": "ISO27001",
+    "control_id": "A.9.1.1",
+    "family": "Access Control",
+    "title": "Access control policy",
+    "description": "An access control policy shall be established, documented and reviewed based on business and information security requirements."
+  },
+  {
+    "id": "ISO27001-A.12.3.1",
+    "framework": "ISO27001",
+    "control_id": "A.12.3.1",
+    "family": "Operations Security",
+    "title": "Information backup",
+    "description": "Backup copies of information, software and system images shall be taken and tested regularly in accordance with an agreed backup policy."
+  },
+  {
+    "id": "ISO27001-A.12.6.1",
+    "framework": "ISO27001",
+    "control_id": "A.12.6.1",
+    "family": "Operations Security",
+    "title": "Management of technical vulnerabilities",
+    "description": "Information about technical vulnerabilities of information systems being used shall be obtained in a timely fashion, the organization's exposure to such vulnerabilities evaluated and appropriate measures taken to address the associated risk."
+  },
+  {
+    "id": "ISO27001-A.13.1.1",
+    "framework": "ISO27001",
+    "control_id": "A.13.1.1",
+    "family": "Communications Security",
+    "title": "Network controls",
+    "description": "Networks shall be managed and controlled to protect information in systems and applications."
+  },
+  {
+    "id": "ISO27001-A.14.2.1",
+    "framework": "ISO27001",
+    "control_id": "A.14.2.1",
+    "family": "System acquisition, development and maintenance",
+    "title": "Secure development policy",
+    "description": "Rules for the development of software and systems shall be established and applied to developments within the organization."
+  },
+  {
+    "id": "ISO27001-A.15.1.1",
+    "framework": "ISO27001",
+    "control_id": "A.15.1.1",
+    "family": "Supplier Relationships",
+    "title": "Information security policy for supplier relationships",
+    "description": "Information security requirements for mitigating the risks associated with supplier's access to the organization's assets shall be agreed with the supplier and documented."
+  },
+  {
+    "id": "ISO27001-A.16.1.1",
+    "framework": "ISO27001",
+    "control_id": "A.16.1.1",
+    "family": "Information security incident management",
+    "title": "Responsibilities and procedures",
+    "description": "Management responsibilities and procedures shall be established to ensure a quick, effective and orderly response to information security incidents."
+  }
+]

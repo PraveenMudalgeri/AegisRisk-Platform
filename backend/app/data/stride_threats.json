@@ -1,0 +1,102 @@
+[
+    {
+        "category": "Spoofing",
+        "title": "Spoofing of external entity",
+        "description": "An attacker may impersonate an external entity to gain unauthorized access."
+    },
+    {
+        "category": "Spoofing",
+        "title": "Spoofing of internal process",
+        "description": "A malicious process may impersonate a legitimate internal process."
+    },
+    {
+        "category": "Tampering",
+        "title": "Tampering with data in transit",
+        "description": "Data may be intercepted and modified while traversing the network."
+    },
+    {
+        "category": "Tampering",
+        "title": "Tampering with data at rest",
+        "description": "Data stored in the database or file system may be modified unauthorizedly."
+    },
+    {
+        "category": "Repudiation",
+        "title": "Repudiation of action",
+        "description": "A user may deny performing an action due to lack of sufficient logging."
+    },
+    {
+        "category": "Repudiation",
+        "title": "Repudiation of receipt",
+        "description": "A receiver may deny receiving a message."
+    },
+    {
+        "category": "Information Disclosure",
+        "title": "Exposure of sensitive data in logs",
+        "description": "Sensitive information may be inadvertently written to system logs."
+    },
+    {
+        "category": "Information Disclosure",
+        "title": "Exposure of sensitive data in error messages",
+        "description": "Detailed error messages may reveal implementation details."
+    },
+    {
+        "category": "Information Disclosure",
+        "title": "Data leakage via unencrypted channel",
+        "description": "Sensitive data transmitted over HTTP or other cleartext protocols."
+    },
+    {
+        "category": "Denial of Service",
+        "title": "Resource exhaustion",
+        "description": "An attacker may consume all available resources (CPU, memory, disk) rendering the system unavailable."
+    },
+    {
+        "category": "Denial of Service",
+        "title": "Network flooding",
+        "description": "An attacker may flood the network interface with traffic."
+    },
+    {
+        "category": "Elevation of Privilege",
+        "title": "Privilege escalation via implementation flaw",
+        "description": "An attacker gains higher privileges than authorized due to a bug."
+    },
+    {
+        "category": "Elevation of Privilege",
+        "title": "Privilege escalation via misconfiguration",
+        "description": "An attacker gains higher privileges due to insecure configuration defaults."
+    },
+    {
+        "category": "Spoofing",
+        "title": "DNS Spoofing",
+        "description": "Attacker poisons the DNS cache to redirect traffic."
+    },
+    {
+        "category": "Tampering",
+        "title": "Code Injection",
+        "description": "Attacker modifies executable code or scripts."
+    },
+    {
+        "category": "Repudiation",
+        "title": "Audit log deletion",
+        "description": "Attacker deletes audit logs to cover their tracks."
+    },
+    {
+        "category": "Information Disclosure",
+        "title": "Side-channel attack",
+        "description": "Attacker infers information from timing or power consumption."
+    },
+    {
+        "category": "Denial of Service",
+        "title": "Account lockout DoS",
+        "description": "Attacker intentionally locks out legitimate users by guessing passwords."
+    },
+    {
+        "category": "Elevation of Privilege",
+        "title": "DLL Hijacking",
+        "description": "Attacker places a malicious DLL in a directory searched by the application."
+    },
+    {
+        "category": "Tampering",
+        "title": "Parameter Tampering",
+        "description": "Attacker modifies URL parameters or form fields."
+    }
+]

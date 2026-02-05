@@ -1,0 +1,82 @@
+[
+    {
+        "id": "NIST-AC-1",
+        "framework": "NIST 800-53",
+        "control_id": "AC-1",
+        "family": "Access Control",
+        "title": "Policy and Procedures",
+        "description": "The organization develops, documents, and disseminates to [Assignment: organization-defined personnel or roles] an access control policy that addresses purpose, scope, roles, responsibilities, management commitment, coordination among organizational entities, and compliance."
+    },
+    {
+        "id": "NIST-AC-2",
+        "framework": "NIST 800-53",
+        "control_id": "AC-2",
+        "family": "Access Control",
+        "title": "Account Management",
+        "description": "The organization identifies and selects the following types of information system accounts to support organizational missions/business functions: [Assignment: organization-defined information system account types]."
+    },
+    {
+        "id": "NIST-AU-2",
+        "framework": "NIST 800-53",
+        "control_id": "AU-2",
+        "family": "Audit and Accountability",
+        "title": "Audit Events",
+        "description": "The organization determines that the information system is capable of auditing the following events: [Assignment: organization-defined auditable events]."
+    },
+    {
+        "id": "NIST-AT-2",
+        "framework": "NIST 800-53",
+        "control_id": "AT-2",
+        "family": "Awareness and Training",
+        "title": "Security Awareness Training",
+        "description": "The organization provides basic security awareness training to information system users (including managers, senior executives, and contractors)."
+    },
+    {
+        "id": "NIST-CM-2",
+        "framework": "NIST 800-53",
+        "control_id": "CM-2",
+        "family": "Configuration Management",
+        "title": "Baseline Configuration",
+        "description": "The organization develops, documents, and maintains under configuration control, a current baseline configuration of the information system."
+    },
+    {
+        "id": "NIST-CP-2",
+        "framework": "NIST 800-53",
+        "control_id": "CP-2",
+        "family": "Contingency Planning",
+        "title": "Contingency Plan",
+        "description": "The organization develops a contingency plan for the information system that identifies essential missions and business functions and associated contingency requirements."
+    },
+    {
+        "id": "NIST-IA-2",
+        "framework": "NIST 800-53",
+        "control_id": "IA-2",
+        "family": "Identification and Authentication",
+        "title": "Identification and Authentication (Organizational Users)",
+        "description": "The information system uniquely identifies and authenticates organizational users (or processes acting on behalf of organizational users)."
+    },
+    {
+        "id": "NIST-IR-4",
+        "framework": "NIST 800-53",
+        "control_id": "IR-4",
+        "family": "Incident Response",
+        "title": "Incident Handling",
+        "description": "The organization implements an incident handling capability for security incidents that includes preparation, detection and analysis, containment, eradication, and recovery."
+    },
+    {
+        "id": "NIST-MA-2",
+        "framework": "NIST 800-53",
+        "control_id": "MA-2",
+        "family": "Maintenance",
+        "title": "Controlled Maintenance",
+        "description": "The organization schedules, performs, documents, and reviews records of maintenance and repairs on information system components in accordance with manufacturer or vendor specifications and/or organizational requirements."
+    },
+    {
+        "id": "NIST-MP-2",
+        "framework": "NIST 800-53",
+        "control_id": "MP-2",
+        "family": "Media Protection",
+        "title": "Media Access",
+        "description": "The organization restricts access to [Assignment: organization-defined types of digital and/or non-digital media] to [Assignment: organization-defined personnel or roles]."
+    }
+]
